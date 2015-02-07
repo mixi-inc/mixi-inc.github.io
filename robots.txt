@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://mixi-inc.github.io/AndroidTraining/sitemap.xml
